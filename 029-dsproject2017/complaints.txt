@@ -1,0 +1,7 @@
+hemanth,taxdepartment,over black money,rejected,7,
+nikhil,municipality,sda,rejected,4,
+harsha,health,there are no good facilities in hospital,Submitted for review,6,
+harsha,health,there are no good facilities in hospital,Submitted for review,6,
+sri,health,facilities ,Submitted for review,5,
+surya,health,iam very sad ,iam suffering from fev,0,
+sachin,health,typoid in tada,Submitted for review,0,

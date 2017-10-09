@@ -1,0 +1,11 @@
+hemanth,7799528285,hemanth,BINGO,
+nikhil,9703328178,nikhil,ENGO,
+siva,9848022334,siva,NULL,
+harsha,9844012345,harsha,BINGO,
+
+sri,9703328178,harsha,BINGO,
+surya,9603696399,123456,BINGO,
+hemanth1,7893577140,hemanth,NULL,
+hemanth2,7893577141,hemanth,BINGO,
+sachin,7799528285,sachin,ENGO,
+god,9133915819,god,ENGO,
